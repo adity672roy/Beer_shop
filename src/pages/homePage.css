@@ -1,0 +1,11 @@
+.logo{
+    margin: 40px 140px ;
+    font-size: 2rem;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.beer{
+    color: rgb(135, 135, 1);
+    margin-right: 10px;
+    font-size: 4rem;
+}

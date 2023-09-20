@@ -1,0 +1,7 @@
+.image{
+    height: 30vh;
+    object-fit: contain;
+}
+.card{
+    background:rgb(224, 159, 159);
+}
